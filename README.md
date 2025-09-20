@@ -42,6 +42,9 @@
 
 <h2>Github stats:</h2> 
 
-![regaaron's github stats](https://github-readme-stats.vercel.app/api?username=regaaron&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=regaaron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> ![regaaron's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regaaron&theme=tokyonight&layout=compact)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=regaaron&theme=tokyonight" alt="mystreak"/>
-![regaaron's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regaaron&theme=tokyonight&layout=compact)
+
+
+
+
